@@ -15,8 +15,8 @@ public class Suma {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int numero_uno = 5;
-        int numero_dos = 2;
+        int numero_uno = 10;
+        int numero_dos = 3;
         int resultado = 0; 
         
         resultado = numero_uno + numero_dos;
